@@ -13,8 +13,8 @@ function Header(props) {
                 <button onClick={handle}>
                     {num}
                 </button>
-                <div>weghrjrrth </div>
-                <div>{ props.cock }</div>
+                <div>more text </div>
+                <div>{ props.obj }</div>
             </>
 
         );

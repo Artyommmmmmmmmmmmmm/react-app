@@ -6,11 +6,11 @@ import Child from "./Child";
 function App(props) {
 
 
-    let a = "dick"
+    let a = "TEXT"
     return (
         <>
-            <Header cock={a} />
-            <Child>adwfesgrhgyhujmi,hjmgfbfv</Child>
+            <Header obj={a} />
+            <Child>some text</Child>
         </>
     );
     
