@@ -21,7 +21,7 @@ function Header(props) {
 }
 
 Header.PropTypes = {
-    cock: PropTypes.string
+    obj: PropTypes.string
 
 }
 
